@@ -1,1 +1,1 @@
-console.log(Robeert)
+var index= require("./index.js")
